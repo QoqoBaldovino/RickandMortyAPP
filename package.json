@@ -1,0 +1,25 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "Rick & Morty SPA",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "keywords": [
+    "Vanilla",
+    "Js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "babel-loader": "^8.2.3",
+    "copy-webpack-plugin": "^5.1.2",
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.3"
+  }
+}
