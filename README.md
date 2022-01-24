@@ -9,4 +9,4 @@ Single page application with Vanilla JS.
 [api] - The Rick & marty API link
 
    [api]: <https://rickandmortyapi.com/>
-   [page]: <https://kriminalinc.github.io/RickandMorty/>
+   [page]: <https://qoqobaldovino.github.io/RickandMortyAPP/>
